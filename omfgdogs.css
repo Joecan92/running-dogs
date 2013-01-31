@@ -1,13 +1,14 @@
 body{
 background: url( 'assets/omfgdogs.gif');
 }
-a:link{
+#original_link{
 position: absolute;
 bottom: 0; 
 right: 0;  
 text-align:right;
-font-size: 48pt;
+font-size: 24pt;
 color: white;
+font-family: Helvetica;
 }
 
 
