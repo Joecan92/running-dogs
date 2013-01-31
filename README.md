@@ -1,4 +1,0 @@
-Portfolio
-=========
-
-Assignment 1
